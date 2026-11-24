@@ -1,0 +1,4 @@
+# No third-party packages needed.
+# Uses only the Python standard library: tkinter, sqlite3, datetime, unittest.
+# Requires Python 3.8+ (tkinter ships with the standard python.org installers).
+# On Ubuntu/Debian, if tkinter is missing: sudo apt install python3-tk
